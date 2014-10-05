@@ -1,6 +1,6 @@
 === Formidable Pro Color Picker ===
 Contributors: erentzenco
-Donate link: http://example.com/
+Donate link: https://www.paypal.com/cgi-bin/webscr/?cmd=_s-xclick&hosted_button_id=5A64RWD5EVWYL
 Tags: color-picker, color pickers, jquery, formidable pro
 Requires at least: 3.0.1
 Tested up to: 4.0
