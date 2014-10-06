@@ -14,6 +14,8 @@ Adds a Color Picker Field type to the Advanced Fields in Formidable Pro
 
 This plugin was developed and tested using WordPress 4.0 and [Formidable Pro Version 1.07.11](https://formidablepro.com/) by [Strategy11 ](http://strategy11.com/). It requires the Formidable Pro Plugin to be installed and activated before installation.
 
+**Please note:** *This is an independent plugin. Use at your own risk. This Plugin and its author are not affiliated with Formidable Pro or Strategy11.*
+
 == Installation ==
 
 1. Upload `formidable-color-picker.zip` to the `/wp-content/plugins/` directory and unzip it there, or use the WordPress Dashboard to install it.
