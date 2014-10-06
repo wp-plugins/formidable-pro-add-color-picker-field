@@ -8,7 +8,6 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-![image](profieldsplugincolorpicker.png)
 Adds a Color Picker Field type to the Advanced Fields in Formidable Pro 
 
 == Description ==
