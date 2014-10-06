@@ -16,7 +16,7 @@ This Plugin is an experiment, I needed to let users pick colors for entries inte
 
 Along the way I discovered a few other color picker libraries for jQuery, so when I get around to it I'll add them to the plugin to give users some different display options.
 
-**Please note:** *This plugin was developed and tested using WordPress 4.0 and [Formidable Pro Version 1.07.11](https://formidablepro.com/) by [Strategy11 ](http://strategy11.com/). It requires the Formidable Pro Plugin to be installed and activated before installation. I am not affiliated with Formidable Pro or Strategy11. This is an independent plugin. Use at your own risk.*
+**Please Note:** *This plugin was developed and tested using WordPress 4.0 and [Formidable Pro Version 1.07.11](https://formidablepro.com/) by [Strategy11 ](http://strategy11.com/). It requires the Formidable Pro Plugin to be installed and activated before installation. I am not affiliated with Formidable Pro or Strategy11. This is an independent plugin. I made it for the Pro version of Formidable instead of the free version because I think Formidable is an amazing plugin and I think people should buy it if they're doing anything fancy with it.*
 
 == Installation ==
 
