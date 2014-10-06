@@ -22,6 +22,12 @@ This plugin was developed and tested using WordPress 4.0 and [Formidable Pro Ver
 
 == Frequently Asked Questions ==
 
+= Why would I want a color picker? =
+
+You may wish to give users the option of selecting colors. For instance, when creating a recurring entry in a calendar, you might want the user to be able to select a color for their entry so it's easy to see among others.
+
+Any time you want users to be able to select colors for elements, use a color picker field, and then insert the value of that field as a style attribute or an inline style in a view. You could even create a view that's nothing but a style sheet with dynamic values from your form. The possibilities are endless, really.
+
 = Why is this so simple? =
 
 It fixes a simple problem.
