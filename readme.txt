@@ -12,7 +12,7 @@ Adds a Color Picker Field type to the Advanced Fields in Formidable Pro
 
 == Description ==
 
-This Plugin was an experiment, I needed to let users pick colors for entries intended to be displayed in a Calendar View. I discovered a workaround on the [Formidable Web Site](https://formidablepro.com/adding-a-color-picker-field/) that was a few years old, so I decided to grab the current version of [jscolor](http://jscolor.com/) and put it in a plugin for easier deployment.
+This Plugin is an experiment, I needed to let users pick colors for entries intended to be displayed in a Calendar View. I discovered a workaround on the [Formidable Web Site](https://formidablepro.com/adding-a-color-picker-field/) that was a few years old, so I decided to grab the current version of [jscolor](http://jscolor.com/) and put it in a plugin for easier deployment.
 
 Along the way I discovered a few other color picker libraries for jQuery, so when I get around to it I'll add them to the plugin to give users some different display options.
 
