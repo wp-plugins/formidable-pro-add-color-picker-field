@@ -36,7 +36,8 @@
  * @updated 2011-11-03
  * @link    http://jscolor.com
  */
- 
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+
 add_filter('frm_pro_available_fields', 'add_color_picker_field');
 function add_color_picker_field($fields){
   $fields['color_picker'] = __('Color Picker'); // the key for the field and the label
