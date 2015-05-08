@@ -3,7 +3,7 @@
  * Plugin Name: Formidable Pro Add Color Picker Field
  * Plugin URI: http://broadstreetnetwork.com/
  * Description: Adds a Color Picker Field type to the Advanced Fields in Formidable Pro 
- * Version: 0.1
+ * Version: 1.0
  * Author: Darryl Erentzen
  * Author URI: https://github.com/DarrylErentzen
  * License: GPL2
